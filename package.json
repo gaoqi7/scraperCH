@@ -1,0 +1,14 @@
+{
+  "name": "scraperCoursehunter",
+  "version": "1.0.0",
+  "description": "Download the courses listed on coursehunter.com with node + youtube-dl",
+  "main": "index.js",
+  "repository": "https://github.com/gaoqi7/scraperCH.git",
+  "author": "rick",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.1.0",
+    "axios": "^0.19.1",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
